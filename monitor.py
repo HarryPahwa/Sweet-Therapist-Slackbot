@@ -17,6 +17,6 @@ while 1:
         file.seek(where)
     else:
         print(line)
-        bot_token="'"+line.split(",")[-1][:-1]+"'"
+        bot_token="'"+line.split(",")[-1][1:-1]+"'"
         print(bot_token) # already has newline
         os.system("python starterbot.py " + bot_token +" &")#+" >> " + line.split(",")[-1][:-1] +".log")
