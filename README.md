@@ -31,3 +31,8 @@ Biggest issue was deploying the slack app to multiple workspaces and launching m
 
 
 Please ask me if you have any questions
+
+
+![alt text](https://github.com/HarryPahwa/Sweet-Therapist-Slackbot/blob/master/Screen%20Shot%202019-03-31%20at%207.55.51%20AM.png)
+![alt text](https://github.com/HarryPahwa/Sweet-Therapist-Slackbot/blob/master/Screen%20Shot%202019-03-31%20at%207.58.43%20AM.png)
+![alt text](https://github.com/HarryPahwa/Sweet-Therapist-Slackbot/blob/master/Screen%20Shot%202019-03-31%20at%207.59.09%20AM.png)
