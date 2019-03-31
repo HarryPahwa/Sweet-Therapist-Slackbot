@@ -7,7 +7,7 @@ import csv
 import sys
 import os
 
-client_id=sys.argv[1]#'xoxb-594637692469-585589606257-yVwKCnGY77wYXxOb0nGwyZeZ'
+client_id=sys.argv[1]
 # instantiate Slack client
 slack_client = SlackClient(client_id)
 #os.environ.get('SLACK_BOT_TOKEN'))
