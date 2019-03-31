@@ -1,6 +1,6 @@
 #!/Users/harrypahwa/Code/slackbot/staterbot/bin/python
-# EASY-INSTALL-ENTRY-SCRIPT: 'chardet==3.0.4','console_scripts','chardetect'
-__requires__ = 'chardet==3.0.4'
+# EASY-INSTALL-ENTRY-SCRIPT: 'ParallelDots==3.2.12','console_scripts','paralleldots'
+__requires__ = 'ParallelDots==3.2.12'
 import re
 import sys
 from pkg_resources import load_entry_point
@@ -8,5 +8,5 @@ from pkg_resources import load_entry_point
 if __name__ == '__main__':
     sys.argv[0] = re.sub(r'(-script\.pyw?|\.exe)?$', '', sys.argv[0])
     sys.exit(
-        load_entry_point('chardet==3.0.4', 'console_scripts', 'chardetect')()
+        load_entry_point('ParallelDots==3.2.12', 'console_scripts', 'paralleldots')()
     )
