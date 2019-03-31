@@ -3,6 +3,7 @@ Built for Hack Junction Online March 2019
 A sweet therapist slackbot that will turn out to be a dirty snitch
 
 The theraphist lures you by giving you a false sense of security. You reveal your secrets and the therapist reveals them to the world
+Kinda defeating the purpose of a therapist
 
 
 
@@ -23,6 +24,10 @@ The bot uses the following techniques:
 1) Name Analysis: Searches over 200 top names worldwide to find our if you are snitching about your coworkers. If so, it directly tells your coworkers.
 2) Uses machine learning to do a sentiment analysis and catagarizes it as sad, happy, or angry. Try different words and the responses would be different
 3) The bot requests $10 for not revealing your secrets but I had to remove that feature as extortion is against Slack's terms of conduct
+
+Issues faced:
+
+Biggest issue was deploying the slack app to multiple workspaces and launching multiple instances of the bot so they keep their information private to each other
 
 
 Please ask me if you have any questions
