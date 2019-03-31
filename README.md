@@ -38,7 +38,7 @@ In case, the above link doesn't work, here are some pictures and a backup link t
 ![alt text](https://github.com/HarryPahwa/Sweet-Therapist-Slackbot/blob/master/Screen%20Shot%202019-03-31%20at%207.58.43%20AM.png)
 ![alt text](https://github.com/HarryPahwa/Sweet-Therapist-Slackbot/blob/master/Screen%20Shot%202019-03-31%20at%207.59.09%20AM.png)
 
-Here's the link to my workspace with the bot:
+Here's the link to my workspace with the bot (use as backup):
 
 https://join.slack.com/t/therapistsinc/shared_invite/enQtNTg1NTg2NTY3MjE3LWNkNWM1ODY0YmQ3NmMxOTIyMmQyZThiM2FmYjkwM2U2MzdjMzQ0OWFkNjZiZDcyOTExYmU0MmY3MTg3Yzk0MjI
 
