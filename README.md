@@ -34,8 +34,14 @@ Please ask me if you have any questions
 
 In case, the above link doesn't work, here are some pictures and a backup link to my workspace at the bottom
 
+
+_in public channel_
 ![alt text](https://github.com/HarryPahwa/Sweet-Therapist-Slackbot/blob/master/Screen%20Shot%202019-03-31%20at%207.55.51%20AM.png)
+
+_in my private channel_
 ![alt text](https://github.com/HarryPahwa/Sweet-Therapist-Slackbot/blob/master/Screen%20Shot%202019-03-31%20at%207.58.43%20AM.png)
+
+_in Jonathan's private channel since I was talking about him_
 ![alt text](https://github.com/HarryPahwa/Sweet-Therapist-Slackbot/blob/master/Screen%20Shot%202019-03-31%20at%207.59.09%20AM.png)
 
 Here's the link to my workspace with the bot (use as backup):
